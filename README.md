@@ -13,10 +13,12 @@
 ![Zustand](https://img.shields.io/badge/Zustand-443333?logo=zustand&logoColor=white&style=flat-square)
 ![SWR](https://img.shields.io/badge/SWR-000000?logo=swr&logoColor=white&style=flat-square)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
 
 ### Backend & Database → 1+ year professional experience
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
