@@ -30,9 +30,11 @@
 ## 🔥 Core Expertise
 - Modern React (Hooks, Context API, Custom Hooks)
 - Next.js (App Router, Server Components, SSR/SSG)
+- Real-time features with Socket.io (both client & server)
+- Advanced data-fetching & caching using SWR or TanStack Query (React Query)
 - Type-safe development with TypeScript
 - High-performance & responsive UI with Tailwind CSS
-- State management (Redux Toolkit, Zustand, React Query)
+- State management (Redux Toolkit, Zustand)
 - RESTful API design & implementation
 - Database modeling & query optimization (MongoDB & MySQL)
 
