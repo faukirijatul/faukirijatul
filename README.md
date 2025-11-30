@@ -42,6 +42,7 @@
 - LinkedIn: https://www.linkedin.com/in/faukirijatulh
 - Email: faukirijatul42@gmail.com
 - WhatsApp: +6287845352397
+- Website: https://www.fauki.com/
 
 I am open to Frontend Engineer / Full-Stack roles (React + Next.js focus).  
 Always excited to build fast, clean, and impactful products! 🚀
