@@ -36,7 +36,7 @@
 
 * **Modern Frontend Architecture:** Production mastery of Next.js App Router, Server Components, SSR/SSG/ISR, React 19, and Radix UI primitives.
 * **State & Data Caching:** Advanced asynchronous server-state management using TanStack Query v5 & SWR, paired with Zustand and Redux Toolkit for global UI state.
-* **Automated Testing & Reliability:** Experienced in writing unit and integration test suites using **Jest, Vitest, and React Testing Library** (e.g., 300+ integration tests across form validations and authorization guards).
+* **Automated Testing & Reliability:** Experienced in writing unit and integration test suites using **Jest, Vitest, and React Testing Library**.
 * **Type-Safe Full-Stack Systems:** End-to-end TypeScript integration, RESTful API architecture with Express.js/Node.js, database optimization, and real-time streaming via Socket.io.
 
 ---
