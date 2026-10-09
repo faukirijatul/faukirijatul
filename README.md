@@ -1,6 +1,6 @@
 # Hi there! I'm Fauki Rijatul H.
 
-**Full-Stack & Frontend Engineer** with over 2 years of professional experience specializing in building scalable, high-performance web applications with **React.js, Next.js, TypeScript, and Node.js**. Experienced in translating complex design systems into accessible UIs, engineering robust RESTful APIs, and maintaining rigorous test coverage for enterprise-grade platforms.
+**Full-Stack & Frontend Engineer** with over 6 years of professional experience specializing in building scalable, high-performance web applications with **React.js, Next.js, TypeScript, and Node.js**. Experienced in translating complex design systems into accessible UIs, engineering robust RESTful APIs, and maintaining rigorous test coverage for enterprise-grade platforms.
 
 ---
 
