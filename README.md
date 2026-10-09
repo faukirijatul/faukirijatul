@@ -55,6 +55,5 @@ An administrative CMS dashboard built for a multi-tenant Learning Management Sys
 * **Portfolio:** [fauki.com](https://fauki.com/)
 * **LinkedIn:** [linkedin.com/in/faukirijatulh](https://www.linkedin.com/in/faukirijatulh)
 * **Email:** [faukirijatul42@gmail.com](mailto:faukirijatul42@gmail.com)
-* **WhatsApp:** [+6281818913201](https://wa.me/6281818913201)
 
 Open to **Frontend & Full-Stack global remote roles**.
